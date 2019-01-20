@@ -1,0 +1,13 @@
+Wczytywanie i przetwarzanie pliku ./data/bieg-2016.csv
+Walidacja pliku ./data/bieg-2016.csv
+(3133, 8134, 'Witold', 'Filipiak', 'Obrzycko', 'nan', 1967, 'nan', -1, 2873, -1, '00:26:22 (3414)', '00:57:38', '00:51:09', 0, 0, 0)
+-----------------------------
+Wczytywanie i przetwarzanie pliku ./data/bieg-2017.csv
+Walidacja pliku ./data/bieg-2017.csv
+(2511, 9684, 'nan', 'nan', 'nan', 'nan', -1, 'nan', -1, 2336, -1, '00:26:09 (3180)', '00:56:33', '00:49:50', 0, 0, 0)
+(3625, 9670, '???', '???', 'nan', 'nan', -1, 'nan', -1, 3240, -1, '00:27:17 (4043)', '01:00:04', '00:52:38', 0, 0, 0)
+-----------------------------
+Wczytywanie i przetwarzanie pliku ./data/bieg-2018.csv
+Walidacja pliku ./data/bieg-2018.csv
+Walidacja danych przebiegła pomyślnie. Nie znaleziono błędów.
+-----------------------------
